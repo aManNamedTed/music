@@ -150,13 +150,13 @@ int menu(int choice)
 			cout << "X Pentatonic Blues: TS  T  S  S  TS  T  S" << endl;
 			cout << endl;
 			
-			cout << "C Pentatonic Blues: C  Eb F  F# G  Bb C" << endl;
-			cout << "D Pentatonic Blues: D  F  G  G# A  C  D" << endl;
-			cout << "E Pentatonic Blues: E  G  A  A# B  D  E" << endl;
-			cout << "F Pentatonic Blues: F  Ab Bb B  C  Eb F" << endl;
-			cout << "G Pentatonic Blues: G  Bb C  C# D  F  G" << endl;
-			cout << "A Pentatonic Blues: A  C  D  D# E  G  A" << endl;
-			cout << "B Pentatonic Blues: B  D  E  F  F# A  B" << endl;
+			cout << "C Pentatonic Blues: C   Eb F  F# G   Bb C" << endl;
+			cout << "D Pentatonic Blues: D   F  G  G# A   C  D" << endl;
+			cout << "E Pentatonic Blues: E   G  A  A# B   D  E" << endl;
+			cout << "F Pentatonic Blues: F   Ab Bb B  C   Eb F" << endl;
+			cout << "G Pentatonic Blues: G   Bb C  C# D   F  G" << endl;
+			cout << "A Pentatonic Blues: A   C  D  D# E   G  A" << endl;
+			cout << "B Pentatonic Blues: B   D  E  F  F#  A  B" << endl;
 			cout << endl;
 			
 			cout << "C#/Db Pentatonic Blues: C# E  F# G  G# B  C#" << endl;
